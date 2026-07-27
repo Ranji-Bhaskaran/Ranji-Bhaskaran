@@ -32,7 +32,6 @@ Building cloud-native systems, DevSecOps pipelines, and AI-powered developer too
 - 🏗️ **HashiCorp Certified: Terraform Associate**
 - 📄 **3 peer-reviewed publications** across IEEE CloudCom 2025, CLOSER 2026, and FLIC 2026
 - 🔬 Building systems across **Cloud Infrastructure, DevSecOps, AI Agents, RAG, and Kubernetes**
-- 💻 Currently working as an **Associate System Engineer at IBM**
 - 🎯 Long-term goal: **SRE / DevOps / Cloud Engineering**
 
 > *"You don't rise to the level of your goals, you fall to the level of your systems."*
