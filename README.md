@@ -17,14 +17,39 @@
 
 <br/>
 
-### 🧭 About Me
+### About Me
 
 - 🎓 M.Sc. Cloud Computing, National College of Ireland — **First Class Honours (1:1)**
 - ☁️ AWS Certified Solutions Architect – Associate · HashiCorp Terraform Associate
 - 📄 3 peer-reviewed papers — **IEEE CloudCom 2025**, **CLOSER 2026**, **FLIC 2026**
-- 🛠️ Currently building **devmate** — a local AI-powered DevOps CLI (diagnose → explain → fix → verify)
+- 🔬 Built and shipped multi-agent RAG systems, DevSecOps pipelines, and cloud-native microservices
 - 🎯 Long-term goal: SRE / DevOps / Cloud Engineer role back in Ireland
 - 💡 *"You don't rise to the level of your goals, you fall to the level of your systems."*
+
+<br/>
+
+### 🎓 Education
+
+<table>
+<tr>
+<th align="left">Institution</th>
+<th align="left">Degree</th>
+<th align="left">Result</th>
+<th align="left">Years</th>
+</tr>
+<tr>
+<td>National College of Ireland</td>
+<td>M.Sc. Cloud Computing</td>
+<td><b>First Class Honours (1:1)</b></td>
+<td>2024 – 2025</td>
+</tr>
+<tr>
+<td>SRM Easwari Engineering College</td>
+<td>B.E. Electronics & Communication</td>
+<td><b>9.09 / 10 CGPA</b></td>
+<td>2020 – 2024</td>
+</tr>
+</table>
 
 <br/>
 
@@ -67,34 +92,47 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🛠️ [devmate](https://github.com/Ranji-Bhaskaran)**
-<br/>
-A local AI-powered DevOps CLI — diagnose, explain, fix, and verify infrastructure issues across Docker, Terraform, and Git, without a chat window in sight.
+#### ⚖️ [Resolvr](https://github.com/Ranji-Bhaskaran)
+Multimodal RAG + multi-agent consumer-rights and food-safety copilot for Ireland — a 6-node LangGraph pipeline with a custom FastMCP tool server, deployed live on Streamlit.
+
+<img src="https://img.shields.io/badge/LangGraph-black?style=flat-square" />
+<img src="https://img.shields.io/badge/RAG-black?style=flat-square" />
+<img src="https://img.shields.io/badge/ChromaDB-black?style=flat-square" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**⚖️ [Resolvr](https://github.com/Ranji-Bhaskaran)**
-<br/>
-A multimodal RAG + multi-agent consumer-rights and food-safety copilot for Ireland, built as a 6-node LangGraph pipeline, deployed live on Streamlit.
+#### 📄 [runres](https://github.com/Ranji-Bhaskaran)
+Local CLI agent that generates ATS-tailored résumés, cover letters, and outreach messages from a structured master dataset, with a code-level anti-hallucination guardrail.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/LLM_Orchestration-black?style=flat-square" />
+<img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**📄 [runres](https://github.com/Ranji-Bhaskaran)**
-<br/>
-A local CLI agent that generates ATS-tailored resumes and cover letters from a structured master dataset, with an anti-hallucination guardrail layer.
+#### 🌐 [Cloud-Native URL Shortener](https://github.com/Ranji-Bhaskaran)
+FastAPI microservice on Kubernetes via Helm, with Redis caching, zero-downtime rolling updates, and a full Prometheus/Grafana observability stack.
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🌐 [Cloud-Native URL Shortener](https://github.com/Ranji-Bhaskaran)**
-<br/>
-FastAPI microservice on Kubernetes via Helm, with Redis caching, zero-downtime rolling updates, and a full Prometheus/Grafana observability stack.
+#### ⚡ [Serverless CI/CD Finance Platform](https://github.com/Ranji-Bhaskaran)
+Fully serverless AWS platform (Lambda, DynamoDB, S3) with a GitHub Actions pipeline enforcing SonarCloud SAST and Bandit security scans as quality gates.
+
+<img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" />
+<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white" />
+<img src="https://img.shields.io/badge/SonarCloud-F3702A?style=flat-square&logo=sonarcloud&logoColor=white" />
 
 </td>
 </tr>
@@ -102,7 +140,7 @@ FastAPI microservice on Kubernetes via Helm, with Redis caching, zero-downtime r
 
 <br/>
 
-### 📚 Publications
+### Publications
 
 | Title | Venue | Link |
 |---|---|---|
@@ -112,15 +150,15 @@ FastAPI microservice on Kubernetes via Helm, with Redis caching, zero-downtime r
 
 <br/>
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ranji-Bhaskaran&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ranji-Bhaskaran&show_icons=true&theme=tokyonight&hide_border=true&hide=prs" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranji-Bhaskaran&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ranji-Bhaskaran&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Ranji-Bhaskaran&theme=tokyonight&hide_border=true" />
 </div>
 
 <br/>
