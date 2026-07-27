@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0f2027&height=180&section=header&text=Ranjith%20Bhaskaran&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20Published%20Researcher&descAlignY=58&descSize=18" width="100%"/>
-
 <h3>AWS • Terraform • Kubernetes • CI/CD</h3>
 
 <p>
@@ -195,8 +193,8 @@ CI/CD pipeline with GitHub Actions, SonarCloud SAST, and Bandit security scannin
 ## 🧭 Current Focus
 
 ```text
-Cloud Infrastructure     ████████████████████ AWS • Terraform • Kubernetes
-DevOps & CI/CD            ████████████████████ Jenkins • GitHub Actions • GitLab CI
-DevSecOps                 ████████████████████ SAST • Security Automation • Compliance
-AI Engineering            ████████████████████ RAG • Agents • LangGraph • MCP
-Observability              ████████████████████ Prometheus • Grafana
+Cloud Infrastructure    AWS • Terraform • Kubernetes
+DevOps & CI/CD          Jenkins • GitHub Actions • GitLab CI
+DevSecOps               SAST • Security Automation • Compliance
+AI Engineering          RAG • Agents • LangGraph • MCP
+Observability           Prometheus • Grafana
